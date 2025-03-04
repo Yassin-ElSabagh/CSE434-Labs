@@ -1,1 +1,1 @@
-# CSE434-A-SO-Labs
+# CSE434-Labs
